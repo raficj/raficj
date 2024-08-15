@@ -1,5 +1,8 @@
 ## Hi there 👋
+My name's Rafic aka feeko and I love technology 😎
 
+- 🌱 I’m currently learning React
+- 🏃‍♂️ I'm into health and fitness
 <!--
 **raficj/raficj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
