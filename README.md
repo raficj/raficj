@@ -1,3 +1,5 @@
+
+![ezgif-4-29c24a3076](https://github.com/user-attachments/assets/018e3620-fa56-488b-84a8-f817adf739df)
 ## Hi there 👋
 My name's Rafic aka feeko and I love technology 😎
 
